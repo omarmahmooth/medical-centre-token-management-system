@@ -1,5 +1,27 @@
 # Medical Centre Token Management System (MCTMS)
 
+Setup Instructions
+1. Clone or download the repository
+
+Download the project files to your computer.
+
+2. Configure administrator credentials
+
+Copy admin.example.json and rename the copy to admin.json.
+
+Open admin.json and replace the example administrator ID and password with your own credentials.
+
+Security note: Do not upload admin.json or share your actual administrator credentials publicly.
+
+3. Run the application
+
+Make sure Python is installed, open a terminal in the project directory, and execute:
+
+python medical_center.py
+4. Patient records
+
+The application stores patient records in patients.json. Keep this file private and do not commit real patient information to the public repository.
+
 ## Project Overview
 
 The Medical Centre Token Management System (MCTMS) is a command-line application developed using Python.

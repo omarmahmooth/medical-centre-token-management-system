@@ -1,12 +1,12 @@
-# Administrator credentials
+# Actual administrator credentials
 admin.json
 
-# Patient records
+# Local patient records
 patients.json
 
 # Python cache files
 __pycache__/
-*.py[cod]
+*.pyc
 
 # Virtual environments
 .venv/
