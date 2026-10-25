@@ -8,6 +8,10 @@ patients.json
 __pycache__/
 *.pyc
 
+# Private configuration and data
+admin.json
+patients.json
+
 # Virtual environments
 .venv/
 
