@@ -1,0 +1,14 @@
+[
+    {
+        "Admin": "A001",
+        "Password": "0123"
+    },
+    {
+        "Admin": "A002",
+        "Password": "4567"
+    },
+    {
+        "Admin": "A003",
+        "Password": "8910"
+    }
+]

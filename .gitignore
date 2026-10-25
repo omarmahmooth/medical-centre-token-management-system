@@ -1,0 +1,15 @@
+# Administrator credentials
+admin.json
+
+# Patient records
+patients.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Environment variables
+.env
